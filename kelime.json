@@ -1,0 +1,798 @@
+[
+  {
+    "word": "MANGAL",
+    "forbidden": ["Et", "Piknik", "Kömür", "Yellemek", "Tavuk"]
+  },
+  {
+    "word": "DEDİKODU",
+    "forbidden": ["Gıybet", "Konuşmak", "Arkadan", "Laf", "Söylemek"]
+  },
+  {
+    "word": "ÇEYİZ",
+    "forbidden": ["Evlilik", "Sandık", "Dantel", "Gelin", "Eşya"]
+  },
+  {
+    "word": "HALI SAHA",
+    "forbidden": ["Futbol", "Maç", "Arkadaş", "Krampon", "Gece"]
+  },
+  {
+    "word": "DOLMUŞ",
+    "forbidden": ["Minibüs", "Para", "Ücret", "Uzatmak", "Yolcu"]
+  },
+  {
+    "word": "KUMANDA",
+    "forbidden": ["Televizyon", "Kanal", "Pil", "Tuş", "Değiştirmek"]
+  },
+  {
+    "word": "KOMBİ",
+    "forbidden": ["Doğalgaz", "Isınmak", "Petek", "Sıcak", "Fatura"]
+  },
+  {
+    "word": "ÇEKİRDEK",
+    "forbidden": ["Çitlemek", "Kabuk", "Park", "Ayçiçeği", "Tuzlu"]
+  },
+  {
+    "word": "ALTIN GÜNÜ",
+    "forbidden": ["Kadın", "Toplanmak", "Para", "Çeyrek", "Kısır"]
+  },
+  {
+    "word": "PAZARLIK",
+    "forbidden": ["Fiyat", "İndirim", "Satıcı", "Düşürmek", "Alışveriş"]
+  },
+  {
+    "word": "AKRABA",
+    "forbidden": ["Teyze", "Amca", "Ziyaret", "Bayram", "Kuzen"]
+  },
+  {
+    "word": "MİSAFİR",
+    "forbidden": ["Gelmek", "Ev", "Ağırlamak", "İkram", "Terlik"]
+  },
+  {
+    "word": "FATURA",
+    "forbidden": ["Elektrik", "Su", "Ödemek", "Ay", "Tutar"]
+  },
+  {
+    "word": "AİDAT",
+    "forbidden": ["Apartman", "Site", "Yönetici", "Para", "Aylık"]
+  },
+  {
+    "word": "KAPICI",
+    "forbidden": ["Çöp", "Ekmek", "Apartman", "Servis", "Görevli"]
+  },
+  {
+    "word": "VERESİYE",
+    "forbidden": ["Bakkal", "Defter", "Borç", "Yazdırmak", "Sonra"]
+  },
+  {
+    "word": "TAVLA",
+    "forbidden": ["Zar", "Mars", "Oyun", "Kapı", "Kahve"]
+  },
+  {
+    "word": "OKEY",
+    "forbidden": ["Taş", "Istaka", "Dönmek", "Masa", "Dört"]
+  },
+  {
+    "word": "ÇAY",
+    "forbidden": ["İçmek", "Demlik", "Şeker", "Bardak", "Rize"]
+  },
+  {
+    "word": "KAHVALTI",
+    "forbidden": ["Sabah", "Yumurta", "Peynir", "Zeytin", "Öğün"]
+  },
+  {
+    "word": "TURŞU",
+    "forbidden": ["Sirke", "Limon", "Salatalık", "Kavanoz", "Kış"]
+  },
+  {
+    "word": "MANTI",
+    "forbidden": ["Hamur", "Yoğurt", "Sarımsak", "Kayseri", "Kaşık"]
+  },
+  {
+    "word": "DÖNER",
+    "forbidden": ["Et", "Tavuk", "Dürüm", "Ayran", "Kesmek"]
+  },
+  {
+    "word": "LAHMACUN",
+    "forbidden": ["Pide", "Kıyma", "Limon", "Maydanoz", "Fırın"]
+  },
+  {
+    "word": "KABLO",
+    "forbidden": ["Elektrik", "Bağlamak", "Fiş", "Uzun", "Priz"]
+  },
+  {
+    "word": "ŞARJ ALETİ",
+    "forbidden": ["Telefon", "Pil", "Doldurmak", "Kablo", "Adaptör"]
+  },
+  {
+    "word": "ÜTÜ",
+    "forbidden": ["Kıyafet", "Sıcak", "Kırışık", "Buhar", "Gömlek"]
+  },
+  {
+    "word": "ÇAMAŞIR SUYU",
+    "forbidden": ["Temizlik", "Beyaz", "Leke", "Koku", "Domestos"]
+  },
+  {
+    "word": "SİNEKLİK",
+    "forbidden": ["Pencere", "Böcek", "Yaz", "Girmek", "Tel"]
+  },
+  {
+    "word": "VANTİLATÖR",
+    "forbidden": ["Sıcak", "Dönmek", "Hava", "Yaz", "Serin"]
+  },
+  {
+    "word": "TORPİL",
+    "forbidden": ["İş", "Tanıdık", "Girmek", "Adam", "Yardım"]
+  },
+  {
+    "word": "RÜŞVET",
+    "forbidden": ["Para", "Yasadışı", "İş", "Vermek", "Memur"]
+  },
+  {
+    "word": "ZAM",
+    "forbidden": ["Fiyat", "Artış", "Maaş", "Enflasyon", "Pahalı"]
+  },
+  {
+    "word": "EMEKLİ",
+    "forbidden": ["Yaşlı", "Maaş", "Çalışmak", "Bitmek", "SGK"]
+  },
+  {
+    "word": "PİYANGO",
+    "forbidden": ["Bilet", "Para", "Yılbaşı", "Çıkmak", "Şans"]
+  },
+  {
+    "word": "NAZAR",
+    "forbidden": ["Göz", "Boncuk", "Değmek", "Kem", "İnanış"]
+  },
+  {
+    "word": "KISMET",
+    "forbidden": ["Kader", "Nasip", "Evlilik", "Olmak", "Hayırlısı"]
+  },
+  {
+    "word": "DÜĞÜN",
+    "forbidden": ["Gelin", "Damat", "Halay", "Takı", "Salon"]
+  },
+  {
+    "word": "HALAY",
+    "forbidden": ["Düğün", "Çekmek", "Mendil", "Dans", "Omuz"]
+  },
+  {
+    "word": "HORON",
+    "forbidden": ["Karadeniz", "Hızlı", "Oynamak", "Kemençe", "Tepmek"]
+  },
+  {
+    "word": "KORNA",
+    "forbidden": ["Araba", "Ses", "Trafik", "Basmak", "Düt"]
+  },
+  {
+    "word": "TRAFİK",
+    "forbidden": ["Araba", "Yol", "Sıkışık", "Gitmek", "İstanbul"]
+  },
+  {
+    "word": "RADAR",
+    "forbidden": ["Hız", "Ceza", "Polis", "Araba", "Yol"]
+  },
+  {
+    "word": "MUAYENE",
+    "forbidden": ["Araba", "Doktor", "Kontrol", "Hasta", "Tüvtürk"]
+  },
+  {
+    "word": "EHLİYET",
+    "forbidden": ["Araba", "Sürmek", "Kart", "Sınav", "Kurs"]
+  },
+  {
+    "word": "PASAPORT",
+    "forbidden": ["Yurt Dışı", "Vize", "Geçmek", "Defter", "Kimlik"]
+  },
+  {
+    "word": "VALİZ",
+    "forbidden": ["Çanta", "Tatil", "Eşya", "Kıyafet", "Tekerlek"]
+  },
+  {
+    "word": "OTOGAR",
+    "forbidden": ["Otobüs", "Yolculuk", "Bilet", "Peron", "Gitmek"]
+  },
+  {
+    "word": "MEMLEKET",
+    "forbidden": ["Köy", "Gitmek", "Şehir", "Doğmak", "Tatil"]
+  },
+  {
+    "word": "ASKERLİK",
+    "forbidden": ["Ordu", "Vatan", "Borç", "Gitmek", "Silah"]
+  },
+  {
+    "word": "KOLONYA",
+    "forbidden": ["Limon", "Bayram", "Misafir", "Dökmek", "Kokmak"]
+  },
+  {
+    "word": "DÜDÜKLÜ TENCERE",
+    "forbidden": ["Yemek", "Patlamak", "Buhar", "Pişirmek", "Mutfak"]
+  },
+  {
+    "word": "OKLAVA",
+    "forbidden": ["Hamur", "Açmak", "Börek", "Tahta", "Yufka"]
+  },
+  {
+    "word": "KISIR",
+    "forbidden": ["Bulgur", "Gün", "Limon", "Salça", "Kadın"]
+  },
+  {
+    "word": "ÇEKYAT",
+    "forbidden": ["Koltuk", "Yatak", "Açmak", "Oturmak", "Salon"]
+  },
+  {
+    "word": "VİTRİN",
+    "forbidden": ["Salon", "Bardak", "Takım", "Eşya", "Cam"]
+  },
+  {
+    "word": "DANTEL",
+    "forbidden": ["Örtü", "Televizyon", "Beyaz", "Örmek", "Tığ"]
+  },
+  {
+    "word": "LEBLEBİ",
+    "forbidden": ["Çorum", "Sarı", "Beyaz", "Kuruyemiş", "Nohut"]
+  },
+  {
+    "word": "SİMİT",
+    "forbidden": ["Susam", "Çay", "Kahvaltı", "Yuvarlak", "Gevrek"]
+  },
+  {
+    "word": "AYRAN",
+    "forbidden": ["Yoğurt", "Su", "Tuz", "İçmek", "Döner"]
+  },
+  {
+    "word": "BAKLAVA",
+    "forbidden": ["Tatlı", "Fıstık", "Ceviz", "Şerbet", "Bayram"]
+  },
+  {
+    "word": "İFTAR",
+    "forbidden": ["Ramazan", "Oruç", "Akşam", "Ezan", "Top"]
+  },
+  {
+    "word": "SAHUR",
+    "forbidden": ["Ramazan", "Gece", "Yemek", "Davulcu", "Oruç"]
+  },
+  {
+    "word": "DAVULCU",
+    "forbidden": ["Ramazan", "Sahur", "Bahşiş", "Çalmak", "Tokmak"]
+  },
+  {
+    "word": "BAYRAMLAŞMAK",
+    "forbidden": ["El Öpmek", "Harçlık", "Ziyaret", "Şeker", "Akraba"]
+  },
+  {
+    "word": "HARÇLIK",
+    "forbidden": ["Para", "Bayram", "Çocuk", "Vermek", "Baba"]
+  },
+  {
+    "word": "KUMBARA",
+    "forbidden": ["Para", "Biriktirmek", "Atmak", "Çocuk", "Kutu"]
+  },
+  {
+    "word": "GÖRÜCÜ USULÜ",
+    "forbidden": ["Evlenmek", "Tanışmak", "Aile", "Beğenmek", "Eski"]
+  },
+  {
+    "word": "KIZ İSTEME",
+    "forbidden": ["Kahve", "Tuzlu", "Çiçek", "Çikolata", "Allahın Emri"]
+  },
+  {
+    "word": "KINA GECESİ",
+    "forbidden": ["Gelin", "Ağlamak", "Düğün", "Yakmak", "Avuç"]
+  },
+  {
+    "word": "DAMAT",
+    "forbidden": ["Gelin", "Düğün", "Erkek", "Takım Elbise", "Eş"]
+  },
+  {
+    "word": "KAYNANA",
+    "forbidden": ["Gelin", "Damat", "Anne", "Eş", "Kavga"]
+  },
+  {
+    "word": "ELTİ",
+    "forbidden": ["Gelin", "Kardeş", "Eş", "Akraba", "Kıskançlık"]
+  },
+  {
+    "word": "ENİŞTE",
+    "forbidden": ["Hala", "Teyze", "Koca", "Doblo", "Akraba"]
+  },
+  {
+    "word": "BACANAK",
+    "forbidden": ["Eş", "Kardeş", "Erkek", "Akraba", "Baldız"]
+  },
+  {
+    "word": "SÜNNET",
+    "forbidden": ["Çocuk", "Düğün", "Kesmek", "Kirve", "Asa"]
+  },
+  {
+    "word": "MAŞALLAH",
+    "forbidden": ["Nazar", "Bebek", "Söylemek", "Güzel", "Allah"]
+  },
+  {
+    "word": "İNŞALLAH",
+    "forbidden": ["Umarım", "Dilek", "Allah", "Olmak", "Gelecek"]
+  },
+  {
+    "word": "ÇAYDANLIK",
+    "forbidden": ["Demlik", "Su", "Ocak", "Kaynamak", "Takım"]
+  },
+  {
+    "word": "SOBA",
+    "forbidden": ["Kömür", "Odun", "Isınmak", "Boru", "Kış"]
+  },
+  {
+    "word": "KESTANE",
+    "forbidden": ["Kebap", "Kış", "Soba", "Çizmek", "Kabuk"]
+  },
+  {
+    "word": "MANDAL",
+    "forbidden": ["Çamaşır", "İp", "Asmak", "Plastik", "Kurumak"]
+  },
+  {
+    "word": "LEĞEN",
+    "forbidden": ["Plastik", "Su", "Yıkamak", "Çamaşır", "Banyo"]
+  },
+  {
+    "word": "LİF",
+    "forbidden": ["Banyo", "Sabun", "Köpük", "Oğalamak", "Örgü"]
+  },
+  {
+    "word": "KESE",
+    "forbidden": ["Hamam", "Kir", "Banyo", "Sırt", "Deri"]
+  },
+  {
+    "word": "HAMAM",
+    "forbidden": ["Sıcak", "Göbek Taşı", "Kurna", "Yıkanmak", "Tellak"]
+  },
+  {
+    "word": "PEŞTEMAL",
+    "forbidden": ["Hamam", "Havlu", "Sarmak", "Bez", "Bel"]
+  },
+  {
+    "word": "TAKSİ",
+    "forbidden": ["Sarı", "Ticari", "Durak", "Para", "Şoför"]
+  },
+  {
+    "word": "TAKSİMETRE",
+    "forbidden": ["Para", "Yazmak", "Taksi", "Ücret", "Açmak"]
+  },
+  {
+    "word": "ZABITA",
+    "forbidden": ["Belediye", "Ceza", "Seyyar", "Pazar", "Denetim"]
+  },
+  {
+    "word": "SEYYAR SATICI",
+    "forbidden": ["Sokak", "Satmak", "Araba", "Bağırmak", "Zabıta"]
+  },
+  {
+    "word": "PAZAR YERİ",
+    "forbidden": ["Sebze", "Meyve", "Alışveriş", "Poşet", "Tezgah"]
+  },
+  {
+    "word": "POŞET",
+    "forbidden": ["Market", "Plastik", "Taşımak", "Para", "Koymak"]
+  },
+  {
+    "word": "ESNAF",
+    "forbidden": ["Dükkan", "Satıcı", "Ticaret", "Mahalle", "Müşteri"]
+  },
+  {
+    "word": "İNDİRİM",
+    "forbidden": ["Fiyat", "Ucuz", "Yüzde", "Düşmek", "Etiket"]
+  },
+  {
+    "word": "VİTRİN BAKMAK",
+    "forbidden": ["Alışveriş", "Gezmek", "Mağaza", "Almamak", "Görmek"]
+  },
+  {
+    "word": "KABİN",
+    "forbidden": ["Denemek", "Kıyafet", "Mağaza", "Giyinmek", "Perde"]
+  },
+  {
+    "word": "BEDEN",
+    "forbidden": ["Ölçü", "Kıyafet", "Small", "Large", "Olmak"]
+  },
+  {
+    "word": "TERZİ",
+    "forbidden": ["Dikmek", "Kıyafet", "Paça", "İğne", "Kumaş"]
+  },
+  {
+    "word": "YAMA",
+    "forbidden": ["Delik", "Kıyafet", "Dikmek", "Kapatmak", "Eski"]
+  },
+  {
+    "word": "SÖKÜK",
+    "forbidden": ["Dikmek", "İplik", "Kıyafet", "Yırtık", "Terzi"]
+  },
+  {
+    "word": "DÜĞME",
+    "forbidden": ["İliklemek", "Gömlek", "Kopmak", "Yuvarlak", "Dikmek"]
+  },
+  {
+    "word": "FERMUAR",
+    "forbidden": ["Çekmek", "Pantolon", "Mont", "Bozulmak", "Diş"]
+  },
+  {
+    "word": "LASTİK",
+    "forbidden": ["Araba", "Patlamak", "Stepne", "Tekerlek", "Kauçuk"]
+  },
+  {
+    "word": "SANAYİ",
+    "forbidden": ["Tamir", "Araba", "Usta", "Site", "Parça"]
+  },
+  {
+    "word": "USTA",
+    "forbidden": ["Tamir", "Çırak", "İş", "Bilen", "Sanayi"]
+  },
+  {
+    "word": "ÇIRAK",
+    "forbidden": ["Usta", "Öğrenmek", "Sanayi", "Çocuk", "Yardım"]
+  },
+  {
+    "word": "BAKKAL",
+    "forbidden": ["Market", "Mahalle", "Ekmek", "Veresiye", "Küçük"]
+  },
+  {
+    "word": "MUHTAR",
+    "forbidden": ["Mahalle", "Seçim", "Belge", "Mühür", "Köy"]
+  },
+  {
+    "word": "İKAMETGAH",
+    "forbidden": ["Adres", "Belge", "Nüfus", "Oturmak", "Ev"]
+  },
+  {
+    "word": "KİMLİK",
+    "forbidden": ["TC", "Nüfus", "Cüzdan", "Kart", "Fotoğraf"]
+  },
+  {
+    "word": "E-DEVLET",
+    "forbidden": ["İnternet", "Şifre", "Sorgulama", "Site", "Resmi"]
+  },
+  {
+    "word": "RANDEVU",
+    "forbidden": ["Hastane", "Doktor", "Saat", "Almak", "Gitmek"]
+  },
+  {
+    "word": "ACİL SERVİS",
+    "forbidden": ["Hastane", "Ambulans", "Kaza", "Gece", "Kırmızı"]
+  },
+  {
+    "word": "REÇETE",
+    "forbidden": ["Doktor", "İlaç", "Eczane", "Yazmak", "Kağıt"]
+  },
+  {
+    "word": "ECZANE",
+    "forbidden": ["İlaç", "Nöbetçi", "Satmak", "Hastalık", "Reçete"]
+  },
+  {
+    "word": "AŞI",
+    "forbidden": ["İğne", "Kol", "Hemşire", "Koruma", "Bebek"]
+  },
+  {
+    "word": "TANSİYON",
+    "forbidden": ["Ölçmek", "Düşmek", "Çıkmak", "Kalp", "Tuzlu"]
+  },
+  {
+    "word": "NABIZ",
+    "forbidden": ["Kalp", "Atmak", "Bilek", "Ölçmek", "Hız"]
+  },
+  {
+    "word": "ATEŞ",
+    "forbidden": ["Derece", "Hasta", "Sıcak", "Ölçmek", "Yanmak"]
+  },
+  {
+    "word": "TERMOMETRE",
+    "forbidden": ["Ateş", "Ölçmek", "Derece", "Civa", "Sıcaklık"]
+  },
+  {
+    "word": "SERUM",
+    "forbidden": ["Hastane", "Kol", "Damar", "Şişe", "Takmak"]
+  },
+  {
+    "word": "RÖNTGEN",
+    "forbidden": ["Kemik", "Çektirmek", "Hastane", "Film", "Işın"]
+  },
+  {
+    "word": "ALÇI",
+    "forbidden": ["Kırık", "Kol", "Bacak", "Beyaz", "Sarmak"]
+  },
+  {
+    "word": "PROTEZ",
+    "forbidden": ["Diş", "Takma", "Bacak", "Yapay", "Kol"]
+  },
+  {
+    "word": "DOLGU",
+    "forbidden": ["Diş", "Çürük", "Doktor", "Oymak", "Yapmak"]
+  },
+  {
+    "word": "KANAL TEDAVİSİ",
+    "forbidden": ["Diş", "Ağrı", "Sinir", "Doktor", "Oymak"]
+  },
+  {
+    "word": "20'LİK DİŞ",
+    "forbidden": ["Ağrı", "Çektirmek", "Gömülü", "Çene", "Arka"]
+  },
+  {
+    "word": "SAÇ TIRAŞI",
+    "forbidden": ["Berber", "Kestirmek", "Makas", "Erkek", "Kuaför"]
+  },
+  {
+    "word": "FÖN",
+    "forbidden": ["Saç", "Kurutmak", "Sıcak", "Kuaför", "Düz"]
+  },
+  {
+    "word": "AĞDA",
+    "forbidden": ["Tüy", "Yapıştırmak", "Çekmek", "Acı", "Sıcak"]
+  },
+  {
+    "word": "MAKYAJ",
+    "forbidden": ["Yüz", "Boya", "Ruj", "Kadın", "Süs"]
+  },
+  {
+    "word": "RUJ",
+    "forbidden": ["Dudak", "Kırmızı", "Sürmek", "Makyaj", "Renk"]
+  },
+  {
+    "word": "OJE",
+    "forbidden": ["Tırnak", "Sürmek", "Renk", "Aseton", "Boya"]
+  },
+  {
+    "word": "PARFÜM",
+    "forbidden": ["Koku", "Sıkmak", "Şişe", "Güzel", "Boyun"]
+  },
+  {
+    "word": "DEODORANT",
+    "forbidden": ["Ter", "Koltuk Altı", "Sıkmak", "Koku", "Sprey"]
+  },
+  {
+    "word": "ŞAMPUAN",
+    "forbidden": ["Saç", "Yıkamak", "Köpük", "Banyo", "Duş"]
+  },
+  {
+    "word": "SABUN",
+    "forbidden": ["El", "Yıkamak", "Köpük", "Kalıp", "Temizlik"]
+  },
+  {
+    "word": "HAVLU",
+    "forbidden": ["Kurulanmak", "Yüz", "Banyo", "Islak", "Asmak"]
+  },
+  {
+    "word": "BORNOZ",
+    "forbidden": ["Banyo", "Giyinmek", "Havlu", "Duş", "Islak"]
+  },
+  {
+    "word": "TERLİK",
+    "forbidden": ["Ayak", "Giymek", "Ev", "Yaz", "Parmak Arası"]
+  },
+  {
+    "word": "PİJAMA",
+    "forbidden": ["Uyumak", "Gece", "Giymek", "Yatak", "Takım"]
+  },
+  {
+    "word": "YORGAN",
+    "forbidden": ["Örtmek", "Yatak", "Kış", "Pamuk", "Sıcak"]
+  },
+  {
+    "word": "YASTIK",
+    "forbidden": ["Baş", "Uyumak", "Yatak", "Yumuşak", "Kılıf"]
+  },
+  {
+    "word": "ÇALAR SAAT",
+    "forbidden": ["Uyanmak", "Sabah", "Alarm", "Ses", "Erken"]
+  },
+  {
+    "word": "UYKUSUZLUK",
+    "forbidden": ["Gece", "Uyumak", "Sabah", "Göz", "Yorgun"]
+  },
+  {
+    "word": "ESNEMEK",
+    "forbidden": ["Uykusu Gelmek", "Ağız", "Açmak", "Yorgun", "Bulaşıcı"]
+  },
+  {
+    "word": "HORLAMAK",
+    "forbidden": ["Uyumak", "Ses", "Burun", "Gece", "Rahatsız"]
+  },
+  {
+    "word": "KABUS",
+    "forbidden": ["Rüya", "Korkmak", "Gece", "Uyanmak", "Kötü"]
+  },
+  {
+    "word": "HALÜSİNASYON",
+    "forbidden": ["Hayal", "Görmek", "Gerçek", "Serap", "Akıl"]
+  },
+  {
+    "word": "BÜROKRASİ",
+    "forbidden": ["Devlet", "Kağıt", "İşlem", "Memur", "Yavaş"]
+  },
+  {
+    "word": "KAMUFLAJ",
+    "forbidden": ["Gizlenmek", "Asker", "Renk", "Doğa", "Saklanmak"]
+  },
+  {
+    "word": "POLEMİK",
+    "forbidden": ["Tartışma", "Söz", "Kavga", "Gündem", "Atışmak"]
+  },
+  {
+    "word": "ARKEOLOG",
+    "forbidden": ["Kazı", "Tarih", "Eski", "Kemik", "Müze"]
+  },
+  {
+    "word": "EMPATİ",
+    "forbidden": ["Kendini", "Yerine", "Koymak", "Duygu", "Anlamak"]
+  },
+  {
+    "word": "STRATEJİ",
+    "forbidden": ["Plan", "Savaş", "Taktik", "Hedef", "Oyun"]
+  },
+  {
+    "word": "TELİF HAKKI",
+    "forbidden": ["Eser", "Sahip", "İzin", "Kopyalamak", "Yasal"]
+  },
+  {
+    "word": "NAVİGASYON",
+    "forbidden": ["Yol", "Harita", "Konum", "Gitmek", "Adres"]
+  },
+  {
+    "word": "KARANTİNA",
+    "forbidden": ["Hastalık", "Virüs", "Bulaşıcı", "Ayırmak", "Dönem"]
+  },
+  {
+    "word": "MELANKOLİ",
+    "forbidden": ["Hüzün", "Mutsuzluk", "Duygu", "Depresyon", "Keder"]
+  },
+  {
+    "word": "STETESKOP",
+    "forbidden": ["Doktor", "Dinlemek", "Kalp", "Sırt", "Ciğer"]
+  },
+  {
+    "word": "ÜTOPYA",
+    "forbidden": ["Hayal", "Gerçek", "Dünya", "Kusursuz", "Gelecek"]
+  },
+  {
+    "word": "SABOTAJ",
+    "forbidden": ["Bozmak", "Engel", "Hain", "Ajan", "Zarar"]
+  },
+  {
+    "word": "PARADOKS",
+    "forbidden": ["Çelişki", "Mantık", "Döngü", "İmkansız", "Durum"]
+  },
+  {
+    "word": "ENFLASYON",
+    "forbidden": ["Para", "Zam", "Fiyat", "Artış", "Ekonomi"]
+  },
+  {
+    "word": "HİYERARŞİ",
+    "forbidden": ["Düzen", "Alt", "Üst", "Rütbe", "Sıra"]
+  },
+  {
+    "word": "KLOSTROFOBİ",
+    "forbidden": ["Korku", "Kapalı", "Alan", "Dar", "Asansör"]
+  },
+  {
+    "word": "DEJABÜ",
+    "forbidden": ["An", "Yaşamak", "Tekrar", "His", "Görmek"]
+  },
+  {
+    "word": "KORNİŞ",
+    "forbidden": ["Perde", "Asmak", "Pencere", "Tavan", "Plastik"]
+  },
+  {
+    "word": "MİTOLOJİ",
+    "forbidden": ["Tanrı", "Efsane", "Yunan", "Hikaye", "Zeus"]
+  },
+  {
+    "word": "PROTOTİP",
+    "forbidden": ["İlk", "Örnek", "Model", "Deneme", "Üretim"]
+  },
+  {
+    "word": "MANİPÜLASYON",
+    "forbidden": ["Yönlendirmek", "Etki", "Kandırmak", "Psikoloji", "Kullanmak"]
+  },
+  {
+    "word": "REFERANS",
+    "forbidden": ["Kaynak", "Örnek", "Tavsiye", "İş", "Göstermek"]
+  },
+  {
+    "word": "RADYASYON",
+    "forbidden": ["Nükleer", "Zararlı", "Işın", "Atom", "Çernobil"]
+  },
+  {
+    "word": "İTİBAR",
+    "forbidden": ["Saygınlık", "Güven", "Şeref", "Kaybetmek", "Toplum"]
+  },
+  {
+    "word": "SPONSOR",
+    "forbidden": ["Para", "Destek", "Reklam", "Firma", "Marka"]
+  },
+  {
+    "word": "KORSE",
+    "forbidden": ["Bel", "Sıkmak", "Zayıf", "Giyim", "Vücut"]
+  },
+  {
+    "word": "EKOLOJİ",
+    "forbidden": ["Çevre", "Doğa", "Denge", "Bilim", "Canlı"]
+  },
+  {
+    "word": "ALİBİ",
+    "forbidden": ["Suç", "Kanıt", "Olay", "Yer", "Mazeret"]
+  },
+  {
+    "word": "DEMAGOJİ",
+    "forbidden": ["Laf", "Siyaset", "Halk", "Kandırmak", "Duygu"]
+  },
+  {
+    "word": "PANDOMİM",
+    "forbidden": ["Sessiz", "Tiyatro", "Hareket", "Yüz", "Konuşmak"]
+  },
+  {
+    "word": "SPEKÜLASYON",
+    "forbidden": ["Dedikodu", "Borsa", "Yorum", "Tahmin", "Gerçek"]
+  },
+  {
+    "word": "SENDİKA",
+    "forbidden": ["İşçi", "Hak", "Patron", "Grev", "Topluluk"]
+  },
+  {
+    "word": "DİPLOMASİ",
+    "forbidden": ["Ülke", "İlişki", "Siyaset", "Görüşme", "Barış"]
+  },
+  {
+    "word": "İRONİ",
+    "forbidden": ["Alay", "Ters", "Durum", "Komik", "Kastetmek"]
+  },
+  {
+    "word": "METAFOR",
+    "forbidden": ["Benzetme", "Mecaz", "Anlam", "Edebiyat", "Söz"]
+  },
+  {
+    "word": "PRÖMİYER",
+    "forbidden": ["İlk", "Gösterim", "Sinema", "Tiyatro", "Açılış"]
+  },
+  {
+    "word": "VİZYON",
+    "forbidden": ["Görüş", "Gelecek", "Sinema", "Bakış", "Hedef"]
+  },
+  {
+    "word": "LOGO",
+    "forbidden": ["Marka", "Simge", "Resim", "Tasarım", "Şirket"]
+  },
+  {
+    "word": "AKUSTİK",
+    "forbidden": ["Ses", "Yankı", "Müzik", "Ortam", "Salon"]
+  },
+  {
+    "word": "SANSÜR",
+    "forbidden": ["Yasak", "Gizlemek", "Basın", "Film", "Kapatmak"]
+  },
+  {
+    "word": "KONTEYNER",
+    "forbidden": ["Gemi", "Taşıma", "Kutu", "Liman", "Yük"]
+  },
+  {
+    "word": "SİLUET",
+    "forbidden": ["Gölge", "Karartı", "Şekil", "Profil", "Işık"]
+  },
+  {
+    "word": "PLAGİAT (İNTİHAL)",
+    "forbidden": ["Çalma", "Hırsızlık", "Eser", "Tez", "Kopya"]
+  },
+  {
+    "word": "RETORİK",
+    "forbidden": ["Hitabet", "Söz", "Sanat", "Konuşma", "Etkili"]
+  },
+  {
+    "word": "DEKOLTE",
+    "forbidden": ["Elbise", "Açık", "Yaka", "Sırt", "Kadın"]
+  },
+  {
+    "word": "LİTERATÜR",
+    "forbidden": ["Kaynak", "Yazın", "Edebiyat", "Araştırma", "Kitap"]
+  },
+  {
+    "word": "MONOTON",
+    "forbidden": ["Sıkıcı", "Tekdüze", "Aynı", "Sıradan", "Hayat"]
+  },
+  {
+    "word": "KARİZMA",
+    "forbidden": ["Etkileyici", "Lider", "Duruş", "Çekici", "Hava"]
+  }
+]

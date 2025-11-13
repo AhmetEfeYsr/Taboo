@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Tabu</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="/socket.io/socket.io.js"></script> </head>
+<body>
+
+    <div class="container">
+        <div class="scoreboard">
+            <div id="teamA" class="team">
+                <h2>TAKIM A</h2>
+                <span id="scoreA">0</span>
+            </div>
+            <div id="teamB" class="team">
+                <h2>TAKIM B</h2>
+                <span id="scoreB">0</span>
+            </div>
+        </div>
+
+        <div class="controls-top">
+            <p>Sıra: <span id="currentTurnDisplay" style="font-weight:bold; color:#e74c3c;">TAKIM A</span></p>
+            <button onclick="switchTeam()">Sırayı Değiştir</button>
+        </div>
+
+        <div class="card">
+            <h1 id="mainWord">YÜKLENİYOR...</h1>
+            <div class="forbidden-words" id="forbiddenWords">
+                </div>
+        </div>
+
+        <div class="actions">
+            <button class="btn-taboo" onclick="sendAction('taboo')">TABU (-1)</button>
+            <button class="btn-pass" onclick="sendAction('pass')">PAS</button>
+            <button class="btn-correct" onclick="sendAction('correct')">DOĞRU (+1)</button>
+        </div>
+    </div>
+
+    <footer>
+        <p>paiye sevgilerle ❤️</p>
+    </footer>
+
+    <script src="client.js"></script>
+</body>
+</html>
